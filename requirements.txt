@@ -1,0 +1,10 @@
+werkzeug
+firebase-admin
+requests
+numpy
+tensorflow
+opencv-python
+Flask
+scipy
+cloudinary
+gunicorn
